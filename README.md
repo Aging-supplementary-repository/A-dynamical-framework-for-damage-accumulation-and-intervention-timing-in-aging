@@ -15,9 +15,5 @@ All figures in the manuscript can be generated independently:
 
 ```bash
 py phase_diagram.py
-
-```bash
 py prcc.py
-
-```bash
-beta_demo.py
+py beta_demo.py
